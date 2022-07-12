@@ -1,0 +1,9 @@
+version: '3'
+services:
+  backend_flask:
+    container_name: backend_flask
+    image: python-docker:latest
+    ports:
+      - "5000:5000"
+    command: python -m flask run --host=0.0.0.0
+

@@ -1,0 +1,5 @@
+{
+  "devicesUrl": "http://127.0.0.1:5000/devices",
+  "connectDeviceUrl": "http://127.0.0.1:5000/connect",
+  "disconnectDeviceUrl": "http://127.0.0.1:5000/disconnect"
+}

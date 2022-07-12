@@ -1,0 +1,14 @@
+{
+  "host": "0.0.0.0",
+
+  "devicesConfigAPI": "/api/config",
+
+  "devicesLoginAPI": "/api/auth/login",
+
+  "devicesTimeAPI": "/api/status",
+
+  "devices": [
+    {"address": "http://192.168.11.35", "username": "admin", "password": "default", "token": ""},
+    {"address": "http://192.168.11.36", "username": "admin", "password": "default", "token": ""}
+  ]
+}
